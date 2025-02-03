@@ -1,0 +1,19 @@
+body{
+    font-family: 'calibri';
+    background-color: rgb(0, 0, 0);
+    
+}
+.img{
+    display: flex;
+    justify-content: center;
+    }
+
+.margin-top{
+    margin-top: 100px;
+}
+
+.timer{
+    font-size: 60px;
+    color: white;
+
+}
